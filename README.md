@@ -29,9 +29,10 @@ cv dl contactmeet@https://github.com/djgacay/contactmeet/archive/master.zip
 
 System: Ubuntu 20.04
 
-PHP version: 7.4.22(NTS)
-MySQL version: mysql  Ver 14.14 Distrib 5.7.35, for Linux (x86_64)
-Apache version: Apache/2.4.41 (Ubuntu)
+* PHP version: 7.4.22(NTS)
+* MySQL version: mysql  Ver 14.14 Distrib 5.7.35, for Linux (x86_64)
+* Apache version: Apache/2.4.41 (Ubuntu)
+* Drupal(7) version: 7.82 release 
 
 ## Installation (CLI, Git)
 
