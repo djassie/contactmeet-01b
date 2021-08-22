@@ -23,7 +23,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl contactmeet@https://github.com/djgacay/contactmeet/archive/master.zip
+cv dl contactmeethttps://github.com/djgacay/contactmeet-01b/archive/refs/tags/01b.tar.gz
 ```
 ## Extension test environment
 
@@ -40,7 +40,7 @@ Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) 
 install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
-git clone https://github.com/djgacay/contactmeet.git
+git clone https://github.com/djgacay/contactmeet-01b.git
 cv en contactmeet
 ```
 
